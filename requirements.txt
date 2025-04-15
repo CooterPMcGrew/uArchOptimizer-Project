@@ -1,0 +1,17 @@
+# Core dependencies
+tkinter
+matplotlib>=3.5.0
+numpy>=1.20.0
+
+# For visualization
+seaborn>=0.11.0
+
+# Utility dependencies
+pillow>=9.0.0  # For image handling
+pandastable>=0.12.0  # For data display
+PyPDF2>=2.0.0  # For handling PDF outputs
+
+# Optional dependencies
+# Uncomment if needed for your specific use case
+# pywin32>=300  # For better Windows integration
+# pyinstaller>=5.0.0  # For creating executable

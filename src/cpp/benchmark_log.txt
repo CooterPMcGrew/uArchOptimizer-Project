@@ -1,0 +1,4 @@
+Benchmark 2025-04-12 17:03:42
+File: C:/Projects/ArchitectureOptimizer/src/backend/benchmark_mac_clean.exe
+Pre: 0.338s | Post: 0.052s | Speedup: 6.54x
+

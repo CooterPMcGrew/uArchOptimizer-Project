@@ -1,0 +1,135 @@
+INFO  Using log config file: jar:file:/C:/Users/Cooter%20McGrew/Desktop/ArchitectureOptimizer/ghidra/ghidra_11.2.1_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml (LoggingInitialization)  
+INFO  Using log file: C:\Users\Cooter McGrew\AppData\Roaming\ghidra\ghidra_11.2.1_PUBLIC\application.log (LoggingInitialization)  
+INFO  Loading user preferences: C:\Users\Cooter McGrew\AppData\Roaming\ghidra\ghidra_11.2.1_PUBLIC\preferences (Preferences)  
+INFO  Searching for classes... (ClassSearcher)  
+INFO  Class search complete (674 ms) (ClassSearcher)  
+INFO  Initializing SSL Context (SSLContextInitializer)  
+INFO  Initializing Random Number Generator... (SecureRandomFactory)  
+INFO  Random Number Generator initialization complete: SHA1PRNG (SecureRandomFactory)  
+INFO  Trust manager disabled, cacerts have not been set (ApplicationTrustManagerFactory)  
+INFO  Starting cache cleanup: C:\Users\Cooter McGrew\AppData\Local\ghidra\fscache2 (FileCacheMaintenanceDaemon)  
+INFO  Finished cache cleanup, estimated storage used: 0 (FileCacheMaintenanceDaemon)  
+INFO  Headless startup complete (1667 ms) (AnalyzeHeadless)  
+INFO  Class searcher loaded 57 extension points (18 false positives) (ClassSearcher)  
+INFO  HEADLESS Script Paths:
+    C:\Users\Cooter McGrew\AppData\Roaming\ghidra\ghidra_11.2.1_PUBLIC\Extensions\MachineLearning\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Features\BytePatterns\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Features\FileFormats\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Features\GnuDemangler\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Features\Base\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Debug\Debugger-agent-frida\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Processors\Atmel\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Features\FunctionID\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Processors\8051\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Features\WildcardAssembler\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Features\Decompiler\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Processors\JVM\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Processors\PIC\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Features\SystemEmulation\ghidra_scripts
+    C:\Users\Cooter McGrew\AppData\Roaming\ghidra\ghidra_11.2.1_PUBLIC\Extensions\SleighDevTools\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Processors\DATA\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Debug\Debugger\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Features\VersionTracking\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Debug\Debugger-rmi-trace\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Debug\Debugger-agent-dbgmodel-traceloader\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Features\PDB\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Features\SwiftDemangler\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Features\BSim\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Features\MicrosoftCodeAnalyzer\ghidra_scripts
+    C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\ghidra\ghidra_11.2.1_PUBLIC\Ghidra\Features\Jython\ghidra_scripts (HeadlessAnalyzer)  
+INFO  HEADLESS: execution starts (HeadlessAnalyzer)  
+INFO  Creating project: C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\src\gui\projects\uArchOptimizerProject (HeadlessAnalyzer)  
+INFO  Creating project: C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\src\gui\projects\uArchOptimizerProject (DefaultProject)  
+INFO  REPORT: Processing input files:  (HeadlessAnalyzer)  
+INFO       project: C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\src\gui\projects\uArchOptimizerProject (HeadlessAnalyzer)  
+INFO  IMPORTING: file:///C:/Users/Cooter McGrew/Desktop/ArchitectureOptimizer/build/benchmark_mac_clean.exe (HeadlessAnalyzer)  
+WARN  267 NOP constructors found (SleighCompile)  
+WARN  Use -n switch to list each individually (SleighCompile)  
+WARN  ia.sinc:969: Table 'pcRelSimm32' exports size 0 (SleighCompile)  
+WARN  217 unnecessary extensions/truncations were converted to copies (SleighCompile)  
+WARN  Use -u switch to list each individually (SleighCompile)  
+WARN  13 operations wrote to temporaries that were not read (SleighCompile)  
+WARN  Use -t switch to list each individually (SleighCompile)  
+WARN  ia.sinc:839: Unreferenced table: 'Zmm_vsib' (SleighCompile)  
+WARN  ia.sinc:875: Unreferenced table: 'imm32_64' (SleighCompile)  
+WARN  ia.sinc:1457: Unreferenced table: 'vexVVVV_KReg' (SleighCompile)  
+INFO  Using Loader: Portable Executable (PE) (AutoImporter)  
+INFO  Using Language/Compiler: x86:LE:64:default:windows (AutoImporter)  
+INFO  Using Library Search Path: [., C:\Windows\SysWOW64, C:\Program Files\Eclipse Adoptium\jdk-21.0.5.11-hotspot\bin, C:\Windows\Sun\Java\bin, C:\Windows\system32, C:\Windows, C:\Users\Cooter McGrew\AppData\Local\cloud-code\installer\google-cloud-sdk\bin, C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.8\bin, C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.8\libnvvp, C:\Windows\System32\Wbem, C:\Windows\System32\WindowsPowerShell\v1.0\, C:\Windows\System32\OpenSSH\, C:\Program Files\MATLAB\R2023b\runtime\win64, C:\Program Files\MATLAB\R2023b\bin, C:\Program Files\dotnet\, C:\Program Files\Git\cmd, C:\Program Files (x86)\GnuWin32\bin, C:\Program Files\Microsoft SQL Server\150\Tools\Binn\, C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\, C:\Program Files (x86)\Graphviz\bin, C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\, C:\Program Files\NVIDIA Corporation\Nsight Compute 2025.1.1\, C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR, C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common, C:\Users\Cooter McGrew\.cargo\bin, C:\Users\Cooter McGrew\AppData\Local\Programs\Python\Python312\Scripts\, C:\Users\Cooter McGrew\AppData\Local\Programs\Python\Python312\, C:\Users\Cooter McGrew\AppData\Local\Microsoft\WindowsApps, C:\Users\Cooter McGrew\AppData\Local\Programs\Microsoft VS Code\bin, C:\ProgramData\chocolatey\bin\bin, C:\Users\Cooter McGrew\Downloads\ffmpeg-N-114472-g89e9486bc3-win64-gpl\ffmpeg-N-114472-g89e9486bc3-win64-gpl\bin, C:\Users\Cooter McGrew\AppData\Local\GitHubDesktop\bin, C:\Users\Cooter McGrew\AppData\Local\Programs\MiKTeX\miktex\bin\x64\, C:\Users\Cooter McGrew\.dotnet\tools, C:\mingw64\bin, C:\MinGW\bin, C:\altera\13.1\modelsim_ase\win32aloem, c:\Users\Cooter McGrew\.vscode\extensions\ms-python.debugpy-2025.6.0-win32-x64\bundled\scripts\noConfigScripts] (AutoImporter)  
+INFO  Additional info:
+Loading file:///C:/Users/Cooter McGrew/Desktop/ArchitectureOptimizer/build/benchmark_mac_clean.exe?MD5=420d98a1baef3fddc8d100d469e038fd...
+------------------------------------------------
+Searching 33 paths for library KERNEL32.DLL...
+Skipping library which is the wrong architecture: file:///C:/Windows/SysWOW64/kernel32.dll
+Loading file:///C:/Windows/System32/kernel32.dll?MD5=da8496d1bba8ecec6c22a4c1982ba34a...
+Using existing exports file: C:\Users\Cooter McGrew\AppData\Roaming\ghidra\ghidra_11.2.1_PUBLIC\symbols\win64\kernel32.exports
+------------------------------------------------
+Applying C:\Users\Cooter McGrew\AppData\Roaming\ghidra\ghidra_11.2.1_PUBLIC\symbols\win64\kernel32.exports
+Linking the External Programs of 'benchmark_mac_clean.exe' to imported libraries...
+  [KERNEL32.DLL] -> not found in project
+------------------------------------------------
+ (AutoImporter)  
+INFO  IMPORTING: Loaded 0 additional files (HeadlessAnalyzer)  
+INFO  ANALYZING all memory and code: file:///C:/Users/Cooter McGrew/Desktop/ArchitectureOptimizer/build/benchmark_mac_clean.exe (HeadlessAnalyzer)  
+INFO  Skipping PDB processing: missing PDB information in program metadata (PdbUniversalAnalyzer)  
+INFO  Packed database cache: C:\Users\Cooter McGrew\AppData\Local\ghidra\packed-db-cache (PackedDatabaseCache)  
+INFO  Applied data type archive: windows_vs12_64 (ApplyDataArchiveAnalyzer)  
+INFO  Applied data type archive: windows_vs12_64 (ApplyDataArchiveAnalyzer)  
+INFO  -----------------------------------------------------
+    ASCII Strings                              0.195 secs
+    Apply Data Archives                        0.088 secs
+    Call Convention ID                         0.010 secs
+    Call-Fixup Installer                       0.051 secs
+    Create Address Tables                      0.022 secs
+    Create Address Tables - One Time           0.020 secs
+    Create Function                            0.140 secs
+    Data Reference                             0.065 secs
+    Decompiler Parameter ID                    4.701 secs
+    Decompiler Switch Analysis                 7.048 secs
+    Demangler Microsoft                        0.038 secs
+    Disassemble                                0.299 secs
+    Disassemble Entry Points                   0.274 secs
+    Embedded Media                             0.010 secs
+    External Entry References                  0.000 secs
+    Function ID                                0.306 secs
+    Function Start Search                      0.012 secs
+    Non-Returning Functions - Discovered       0.054 secs
+    Non-Returning Functions - Known            0.003 secs
+    PDB Universal                              0.001 secs
+    Reference                                  0.071 secs
+    Scalar Operand References                  0.194 secs
+    Shared Return Calls                        0.070 secs
+    Stack                                      1.161 secs
+    Subroutine References                      0.099 secs
+    Subroutine References - One Time           0.001 secs
+    Windows x86 PE Exception Handling          0.973 secs
+    Windows x86 PE RTTI Analyzer               0.403 secs
+    Windows x86 Thread Environment Block (TEB) Analyzer     0.008 secs
+    WindowsResourceReference                   2.295 secs
+    x86 Constant Reference Analyzer            1.155 secs
+-----------------------------------------------------
+     Total Time   19 secs
+-----------------------------------------------------
+ (AutoAnalysisManager)  
+INFO  REPORT: Analysis succeeded for file: file:///C:/Users/Cooter McGrew/Desktop/ArchitectureOptimizer/build/benchmark_mac_clean.exe (HeadlessAnalyzer)  
+ERROR Failed to find script in any script directory: C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\src\gui\scripts\DecompileFunction.java (GhidraScriptUtil)  
+ERROR REPORT SCRIPT ERROR: C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\src\gui\scripts\DecompileFunction.java : The class could not be found. It must be the public class of the .java file: Failed to find source bundle containing script: C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\src\gui\scripts\DecompileFunction.java (HeadlessAnalyzer) ghidra.app.script.GhidraScriptLoadException: The class could not be found. It must be the public class of the .java file: Failed to find source bundle containing script: C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\src\gui\scripts\DecompileFunction.java
+	at ghidra.app.script.JavaScriptProvider.getScriptInstance(JavaScriptProvider.java:110)
+	at ghidra.app.util.headless.HeadlessAnalyzer.runScriptsList(HeadlessAnalyzer.java:912)
+	at ghidra.app.util.headless.HeadlessAnalyzer.analyzeProgram(HeadlessAnalyzer.java:1074)
+	at ghidra.app.util.headless.HeadlessAnalyzer.processFileWithImport(HeadlessAnalyzer.java:1563)
+	at ghidra.app.util.headless.HeadlessAnalyzer.processWithLoader(HeadlessAnalyzer.java:1745)
+	at ghidra.app.util.headless.HeadlessAnalyzer.processWithImport(HeadlessAnalyzer.java:1686)
+	at ghidra.app.util.headless.HeadlessAnalyzer.processWithImport(HeadlessAnalyzer.java:1770)
+	at ghidra.app.util.headless.HeadlessAnalyzer.processLocal(HeadlessAnalyzer.java:457)
+	at ghidra.app.util.headless.AnalyzeHeadless.launch(AnalyzeHeadless.java:198)
+	at ghidra.GhidraLauncher.launch(GhidraLauncher.java:81)
+	at ghidra.Ghidra.main(Ghidra.java:54)
+Caused by: java.lang.ClassNotFoundException: Failed to find source bundle containing script: C:\Users\Cooter McGrew\Desktop\ArchitectureOptimizer\src\gui\scripts\DecompileFunction.java
+	at ghidra.app.script.JavaScriptProvider.loadClass(JavaScriptProvider.java:151)
+	at ghidra.app.script.JavaScriptProvider.getScriptInstance(JavaScriptProvider.java:96)
+	... 10 more
+INFO  ANALYZING changes made by post scripts: file:///C:/Users/Cooter McGrew/Desktop/ArchitectureOptimizer/build/benchmark_mac_clean.exe (HeadlessAnalyzer)  
+INFO  REPORT: Post-analysis succeeded for file: file:///C:/Users/Cooter McGrew/Desktop/ArchitectureOptimizer/build/benchmark_mac_clean.exe (HeadlessAnalyzer)  
+INFO  REPORT: Save succeeded for: /benchmark_mac_clean.exe (uArchOptimizerProject:/benchmark_mac_clean.exe) (HeadlessAnalyzer)  
+INFO  REPORT: Import succeeded (HeadlessAnalyzer)  

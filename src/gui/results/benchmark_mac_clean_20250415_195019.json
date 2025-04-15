@@ -1,0 +1,13 @@
+{
+    "timestamp": "2025-04-15T19:49:16.304385",
+    "executable": "benchmark_mac_clean.exe",
+    "cpu_info": {
+        "processor": "12th Gen Intel(R) Core(TM) i9-12900K\u0000",
+        "microarch": "Alder Lake (Intel 12th Gen)"
+    },
+    "benchmark_type": "Branch Prediction",
+    "iterations": "10000000",
+    "pre_time": 0.0002402,
+    "post_time": 0.0002141,
+    "speedup": 1.1219056515646895
+}

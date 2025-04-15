@@ -1,0 +1,36 @@
+Benchmark 2025-04-12 17:26:56
+File: C:/Projects/ArchitectureOptimizer/build/benchmark_mac_clean.exe
+Pre: 0.333s | Post: 0.029s | Speedup: 11.31x
+
+Benchmark 2025-04-13 01:44:33
+File: C:/Projects/ArchitectureOptimizer/build/benchmark_mac_clean.exe
+Pre: 0.017s | Post: 0.011s | Speedup: 1.53x
+
+Benchmark 2025-04-13 01:44:38
+File: C:/Projects/ArchitectureOptimizer/build/benchmark_mac_clean.exe
+Pre: 0.012s | Post: 0.015s | Speedup: 0.82x
+
+Benchmark 2025-04-13 01:44:41
+File: C:/Projects/ArchitectureOptimizer/build/benchmark_mac_clean.exe
+Pre: 0.012s | Post: 0.013s | Speedup: 0.92x
+
+Benchmark 2025-04-13 01:44:42
+File: C:/Projects/ArchitectureOptimizer/build/benchmark_mac_clean.exe
+Pre: 0.011s | Post: 0.011s | Speedup: 0.99x
+
+Benchmark 2025-04-13 01:44:43
+File: C:/Projects/ArchitectureOptimizer/build/benchmark_mac_clean.exe
+Pre: 0.011s | Post: 0.011s | Speedup: 0.99x
+
+Benchmark 2025-04-13 01:44:44
+File: C:/Projects/ArchitectureOptimizer/build/benchmark_mac_clean.exe
+Pre: 0.010s | Post: 0.011s | Speedup: 0.95x
+
+Benchmark 2025-04-13 01:44:45
+File: C:/Projects/ArchitectureOptimizer/build/benchmark_mac_clean.exe
+Pre: 0.011s | Post: 0.011s | Speedup: 1.05x
+
+Benchmark 2025-04-13 01:44:46
+File: C:/Projects/ArchitectureOptimizer/build/benchmark_mac_clean.exe
+Pre: 0.011s | Post: 0.012s | Speedup: 0.95x
+
